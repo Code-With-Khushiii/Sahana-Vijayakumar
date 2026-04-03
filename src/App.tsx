@@ -323,7 +323,7 @@ function App() {
                 className="w-36 h-36 rounded-full mx-auto mb-6 object-cover border-4 border-brown/30 shadow-lg"
               />
             </div>
-            <h1 className="text-5xl md:text-6xl font-display text-black mb-6 tracking-wide">
+            <h1 className="text-3xl md:text-6xl font-display text-black mb-6 tracking-wide">
               SAHANA VIJAYAKUMAR
             </h1>
             <div className="text-lg text-brown mb-2 font-light tracking-widest">
